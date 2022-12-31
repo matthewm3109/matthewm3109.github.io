@@ -4,8 +4,11 @@ title: CV
 ---
 <!-- minimilist CV as .md -->
 
+
+
 ## Work Experience
 ***
+
 
 ### Mendix (Acquired by Siemens)
 _Victoria, British Columbia_
@@ -26,16 +29,21 @@ _October 2019 to December 2019_
 _July 2017 to October 2019_
 
 
+
 ## Skills
 ***
+
 
 Technical: `Python`, `SQL`, `Mendix`, `HTML`, `CSS`
 
 Management: `Agile Methodology`, `Wireframing`, `Scoping`
 
 
+
 ## Education
 ***
+
+
 ### Georgia Institute of Technology
 **Part-time M.Sc in Analytics**
 _2022-Present_
@@ -45,8 +53,10 @@ _2022-Present_
 _2013 - 2017_
 
 
+
 ## Contact Me 
 ***
+
 
 **Email**: <matthewm3109@gmail.com>
 

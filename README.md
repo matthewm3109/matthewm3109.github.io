@@ -1,4 +1,4 @@
 # About 
 
-Source code for my prsonal website. It is built uing Jekyll, Lanyon and hosted on Github Pages. 
+Source code for my personal website. It's built using Jekyll, Lanyon and hosted on Github Pages. 
 
